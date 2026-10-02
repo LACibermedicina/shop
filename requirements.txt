@@ -1,0 +1,4 @@
+flask>=3.0
+fpdf2>=2.7
+openai>=1.30
+httpx>=0.27
